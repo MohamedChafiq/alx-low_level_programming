@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * main - A program that prints a line with puts function
- * description: Programming is like building a multilingual puzzle
- *
- * Return : Always 0 (succes)
+ * discription: 'prints exactly the program'
+ * Return : Always 0
  */
 int main(void)
 {
