@@ -9,7 +9,7 @@ int main(void)
 	int n = 2;
 	int m = 5;
 
-	while (n <= 20)
+	while (n <= 8)
 	{
 		putchar(n);
 		n++;
