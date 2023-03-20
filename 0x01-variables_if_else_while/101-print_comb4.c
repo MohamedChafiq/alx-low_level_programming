@@ -34,10 +34,10 @@ int main(void)
 				}
 				digit3++;
 			}
-			digit2++
+			digit2++;
 		}
-		digit1++
+		digit1++;
 	}
-	putcahr('\n');
+	putchar('\n');
 	return (0);
 }
